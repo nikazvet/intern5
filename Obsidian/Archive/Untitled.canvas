@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"083c5852f322b9f5","x":-291,"y":-320,"width":250,"height":60,"type":"text","text":"Я звоню в Бергейк"},
+		{"id":"70abb80deb6cb22b","x":-292,"y":-229,"width":250,"height":60,"type":"text","text":"Описываю ситуацию"},
+		{"id":"07434b444436e908","x":-292,"y":-131,"width":250,"height":83,"type":"text","text":"Могут ли они сказать можно ли нам пользоватся автобусом?"},
+		{"id":"3700186dee3feaf0","x":-375,"y":-18,"width":250,"height":60,"color":"4","type":"text","text":"Да, могут. Да, можно"},
+		{"id":"8362ec9bcdc8eb7f","x":-375,"y":72,"width":250,"height":60,"type":"text","text":"Закажут они или мы билеты?"},
+		{"id":"0e0190b561f8e7af","x":4,"y":-320,"width":250,"height":60,"type":"text","text":"Я звоню в Валкенсвард"},
+		{"id":"e846c61ca6841a30","x":254,"y":-310,"width":250,"height":50,"type":"text","text":"Я звоню в Бладель"},
+		{"id":"9ce15bab11b36299","x":140,"y":102,"width":290,"height":140,"type":"text","text":"Какие обновления по транспорту? Как нам и тому мальчику добиратся? Добиватся от них и новой школы"},
+		{"id":"1e359f78379db3d2","x":-99,"y":-23,"width":239,"height":95,"type":"text","text":"Да, могут. Нет, нельзя.\nВряд ли будет, почему нельзя итд"},
+		{"id":"dd08614808843b05","x":35,"y":-169,"width":250,"height":60,"type":"text","text":"Нет, не могут"},
+		{"id":"fca48b12c531a8de","x":220,"y":-23,"width":250,"height":60,"type":"text","text":"Я пишу в школу и уточняю кому звонить"},
+		{"id":"d3357f89d89e63ec","x":-460,"y":172,"width":250,"height":60,"type":"text","text":"Я пишу и заказываю билеты"},
+		{"id":"b055dc4b67b75ef5","x":-200,"y":172,"width":250,"height":60,"type":"text","text":"Они заказывают билеты"},
+		{"id":"a1401db260a1bd9d","x":-335,"y":280,"width":250,"height":60,"color":"4","type":"text","text":"У нас есть билеты на автобус"}
+	],
+	"edges":[
+		{"id":"1fe27fbd4be80189","fromNode":"083c5852f322b9f5","fromSide":"bottom","toNode":"70abb80deb6cb22b","toSide":"top"},
+		{"id":"95634d7aaf4211fc","fromNode":"70abb80deb6cb22b","fromSide":"bottom","toNode":"07434b444436e908","toSide":"top"},
+		{"id":"c28d05ce39366dee","fromNode":"07434b444436e908","fromSide":"left","toNode":"3700186dee3feaf0","toSide":"left"},
+		{"id":"96ebb29948fa12ee","fromNode":"3700186dee3feaf0","fromSide":"bottom","toNode":"8362ec9bcdc8eb7f","toSide":"top"},
+		{"id":"f9975b1ea21915a8","fromNode":"8362ec9bcdc8eb7f","fromSide":"bottom","toNode":"d3357f89d89e63ec","toSide":"top"},
+		{"id":"24046393a32ec331","fromNode":"8362ec9bcdc8eb7f","fromSide":"right","toNode":"b055dc4b67b75ef5","toSide":"top"},
+		{"id":"f2bd30ea7e6adefc","fromNode":"d3357f89d89e63ec","fromSide":"bottom","toNode":"a1401db260a1bd9d","toSide":"top"},
+		{"id":"6f585d3327838053","fromNode":"b055dc4b67b75ef5","fromSide":"bottom","toNode":"a1401db260a1bd9d","toSide":"top"},
+		{"id":"1ac7e0d1697d220c","fromNode":"dd08614808843b05","fromSide":"right","toNode":"fca48b12c531a8de","toSide":"top"},
+		{"id":"3c296f819b11d240","fromNode":"07434b444436e908","fromSide":"right","toNode":"dd08614808843b05","toSide":"left"},
+		{"id":"2a2ec926ca380979","fromNode":"07434b444436e908","fromSide":"right","toNode":"1e359f78379db3d2","toSide":"top"},
+		{"id":"1a53963918c55314","fromNode":"1e359f78379db3d2","fromSide":"bottom","toNode":"9ce15bab11b36299","toSide":"top"}
+	]
+}
