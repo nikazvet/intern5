@@ -1,0 +1,1 @@
+The person who succeeds in a way that isn't formally successful.  
