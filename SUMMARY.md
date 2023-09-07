@@ -22,6 +22,7 @@
     * [DOT Framework](<Obsidian/Computer Science Knowledge/DOT Framework.md>)
     * [Field](<Obsidian/Computer Science Knowledge/Field.md>)
     * [Lab](<Obsidian/Computer Science Knowledge/Lab.md>)
+    * [Showroom](<Obsidian/Computer Science Knowledge/showroom.md>)
     * [Library](<Obsidian/Computer Science Knowledge/Library.md>)
   * [Plans and Todolists](<Obsidian/Plans and Todolists/README.md>)
     * [04-Sep-2023](<Obsidian/Plans and Todolists/04-Sep-2023.md>)
