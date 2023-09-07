@@ -1,0 +1,3 @@
+I keep all of my documentation(except for the competence document because of the big tables and needing to highlight stuff and Obsidian treating tables badly) in an Obsidian Vault which I back up with git into a repository which I will also use for code and other artifacts. I will publish all of my documentation using Git Book. 
+I write down my tasks in the morning and reflect in the afternoon. I also push the changes in the afternoon. I also upload my files in Canvas and update my stakeholders before my meetings.
+I have to update organic Obsidian links to more general ones that work better in git and gitbook.
