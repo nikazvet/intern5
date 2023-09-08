@@ -1,5 +1,6 @@
 {
   "format": "DD-MMM-yy",
   "folder": "Plans and Todolists",
-  "template": "Plans and Todolists/Day Planning template"
+  "template": "Plans and Todolists/Day Planning template",
+  "autorun": true
 }

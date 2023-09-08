@@ -9,7 +9,8 @@ This week I have two scheduled meetings: Wednesday at 13 with Marc and Friday at
 
 - [ ] schedule a meeting with Ingrid
 
-
+# Week summary
+The first week is usually hard and I spent it getting used to the environment. Pretty hard to talk to people and my project is hazy. 
 # To-do lists
 ## Competence document
 - [ ] Decide on intended development

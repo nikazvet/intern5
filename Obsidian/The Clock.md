@@ -1,1 +1,0 @@
-The Clock is busy, they have a job or two. They travel a long time, they often don't have time to be here in person. They take studying seriously enough, but their absence, missed lessons and improvised meetings provide 

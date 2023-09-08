@@ -12,6 +12,8 @@ I have two documents, meetings and additional work I need to take care and track
 
 ## Research
 
+## Canvas
+
 ## Research in initiation phase
 I copied down some things from the PowerPoint
 - Investigate the situation more thorough;

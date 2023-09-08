@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Future semesters plans](README.md)
+* []()
+* []()
 * [Inspiration](Inspiration.md)
 * [Interview questions](<Interview questions.md>)
 * [Research questions](<Research questions.md>)

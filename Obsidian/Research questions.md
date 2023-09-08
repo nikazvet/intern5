@@ -12,3 +12,12 @@ How can we support students through helping, so that helpers can ask for help to
 How do we make this solution sustainable?
 What ends somebody’s participation in the exchange?
 What ends the exchange itself?
+
+
+The questions above are quite detailed and not related to what I want to do.
+
+I have three fruitful directions of research: 
+- such as what makes good environments?
+- how can feedback moments be improved, specifically for edge cases and situations where a student feels it would be impossible
+- how can we remove barriers?
+- 
